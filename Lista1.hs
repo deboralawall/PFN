@@ -1,5 +1,3 @@
----DÉBORA LAWALL LANGNER
-
 -----------------Triângulo----------------------
 --EXERCÍCIO 1
 ehTriangulo a b c = if a >= b + c || b >= c + a || c >= a + b then False else True
